@@ -1,5 +1,5 @@
 {
-  "name": "medium-unlimited",
+  "name": "medium-unlock",
   "version": "1.0.0",
   "description": "A chrome extension to unlock medium.com paywall",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "webpack --mode production",
     "deploy-website": "gh-pages -d website/_site"
   },
-  "author": "",
+  "author": "stark",
   "license": "ISC",
   "dependencies": {
     "amplitude": "^3.5.0",
